@@ -37,9 +37,8 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 
 ## 🔍 Take a Look at My Work
 
-[Final project](https://github.com/medosdragana/saucedemo-itbootcamp-automation): Automated Testing of Web Application using Selenium WebDriver and TestNG
+[QA Portfolio](https://github.com/medosdragana?tab=repositories): My QA portfolio
 
-[QA Portfolio](https://github.com/medosdragana/portfolio): My QA portfolio
 ## 📬 How to reach me:
 
 If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)! Don’t hesitate to get in touch for collaborations or any questions you might have.

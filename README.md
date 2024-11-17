@@ -12,8 +12,9 @@ Hi, I’m Dragana, a QA Specialist who loves technology and making things work p
 
 ## 🌱 Courses I've Completed
 
-__Software Testing Bootcamp__  
+__Software Testing Bootcamp__   
 *online course by [IT Bootcamp](https://itbootcamp.rs/)*  
+
 A 160-hour intensive, hands-on program that covers essential testing principles, including manual and automated testing techniques, database and API testing, and the use of popular testing tools.  
 [Link to the certificate](https://drive.google.com/file/d/1PHGEZaJJTsO8P1l7LZ8D-wB04pAOVduD/view?usp=sharing)  
 

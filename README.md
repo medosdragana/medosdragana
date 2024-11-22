@@ -28,7 +28,7 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 
 **Java Programming:** Fundamentals of Java programming, Maven, IntelliJ
 
-**Automated Testing:** Selenium, TestNG, POM (Page Object Model), Apache POI, Data Driven Testing, Gherkin, Postman, Swagger, JUnit, Cucumber, JMeter
+**Automated Testing:** Selenium, TestNG, POM (Page Object Model), Apache POI, Data Driven Testing, Gherkin, Postman, Swagger
 
 **Web Technologies**: JavaScript, HTML, CSS
 

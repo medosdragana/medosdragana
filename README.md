@@ -37,7 +37,7 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 
 ## 🔍 Take a Look at My Work
 
-[QA Portfolio](https://github.com/medosdragana?tab=repositories): My QA portfolio
+👨‍💻 All of my projects are available at [Portfolio](https://github.com/medosdragana?tab=repositories).
 
 ## 📬 Get in touch:
 

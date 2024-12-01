@@ -39,9 +39,11 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 
 [QA Portfolio](https://github.com/medosdragana?tab=repositories): My QA portfolio
 
-## 📬 How to reach me:
+## 📬 Get in touch:
 
 If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)! Don’t hesitate to get in touch for collaborations or any questions you might have.
+
+![Profile Views](https://komarev.com/ghpvc/?username=medosdragana&color=green)
 
 <!--
 **medosdragana/medosdragana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

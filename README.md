@@ -37,11 +37,9 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)! Don’t hesitate to get in touch for collaborations or any questions you might have.
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=medosdragana)
-
-<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=medosdragana&color=green)
 
+<!--
 **medosdragana/medosdragana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

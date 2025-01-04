@@ -1,4 +1,4 @@
-## Hi There 👋
+## 👋 Hi There
 
 Hi, I’m Dragana, a QA Specialist who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly. Quality software is my thing!
 

@@ -2,13 +2,6 @@
 
 Hi, I’m Dragana, a QA Specialist who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly. Quality software is my thing!
 
-## 🚀 What I Do
-**Bug Hunting:** Always on the lookout to catch those sneaky bugs before they cause problems.
-
-**Test Case Creation:** Designing detailed test cases to cover all possible scenarios.
-
-**Automation Testing:** Building automated tests to keep things running smoothly, even when I’m not around.
-
 
 ## 🌱 Courses I've Completed
 

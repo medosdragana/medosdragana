@@ -1,6 +1,6 @@
 ## 👋 Hi There
 
-Hi, I’m Dragana, a QA Specialist who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly. Quality software is my thing!
+Hi, I’m Dragana, a QA Specialist who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly.
 
 
 ## 🌱 Courses I've Completed
@@ -34,7 +34,7 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 
 ## 📬 Get in Touch
 
-If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)! Don’t hesitate to get in touch for collaborations or any questions you might have.
+If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)!
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=medosdragana&color=green)

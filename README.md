@@ -17,15 +17,17 @@ A 160-hour intensive, hands-on program that covers essential testing principles,
 
 ## 🛠 Skills
 
-**Manual Testing:** Writing Test Cases, Bug Reporting, JIRA, TestRail
+**Manual Testing:** Writing Test Cases, Bug Reporting, Gherkin, JIRA, TestRail
 
-**Java Programming:** Fundamentals of Java programming, Maven, IntelliJ
+**API Testing:** Postman, Swagger
 
-**Automated Testing:** Selenium, Data Driven Testing, Gherkin, Postman, Swagger
+**Databases:** PostgreSQL, pgAdmin
 
-**Web Technologies**: JavaScript, HTML, CSS
+**Automated Testing:** Java, Selenium
 
-**Databases:** SQL, PostgreSQL, pgAdmin
+**Web Technologies**: HTML, CSS, JavaScript, Google DevTools
+
+
 
 
 ## 🔍 Take a Look at My Work

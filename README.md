@@ -1,6 +1,6 @@
 ## 👋 Hi There
 
-Hi, I’m Dragana, a QA Specialist who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly.
+Hi, I'm Dragana, a highly motivated junior software tester who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly.
 
 
 ## 🌱 Courses I've Completed
@@ -10,14 +10,23 @@ __Software Testing Bootcamp__
 
 A 160-hour intensive, hands-on program that covers essential testing principles, including manual and automated testing techniques, database and API testing, and the use of popular testing tools.  
 [Link to the certificate](https://drive.google.com/file/d/1PHGEZaJJTsO8P1l7LZ8D-wB04pAOVduD/view?usp=sharing)  
+#### 🎯 Things I Learned:
+- Explored software testing principles, SDLC, STLC, and Agile methodologies  
+- Learned about different types of testing  
+- Gained proficiency in SQL and database testing  
+- Learned about API testing, creating and managing requests, and documenting APIs  
+- Gained proficiency in creating clear and detailed bug reports  
+- Learned how to execute tests and report defects in JIRA  
+- Acquired knowledge in writing automated test cases using Java and Selenium WebDriver
+<br><br>
 
-**IT Bootcamp** is a leading Serbian provider specializing in IT prequalification training, preparing individuals for careers in the IT industry.  
-
-
+__The Complete SQL Bootcamp 2022: Go from Zero to Hero__  
+*online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/) on [Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/)*   
+[Link to the certificate](https://www.udemy.com/certificate/UC-225392e7-971f-42bf-b585-64c0282f27f5/)  
 
 ## 🛠 Skills
 
-**Manual Testing:** Writing Test Cases, Bug Reporting, Gherkin, JIRA, TestRail
+**Manual Testing:** Writing Test Cases, Bug Reporting, Gherkin, TestRail, JIRA
 
 **API Testing:** Postman, Swagger
 

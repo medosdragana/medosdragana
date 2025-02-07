@@ -1,6 +1,5 @@
-## 👋 Hi There
-
-Hi, I'm Dragana, a highly motivated junior software tester who loves technology and making things work perfectly. I enjoy hunting down those tricky bugs and making sure everything runs smoothly.
+<h1 align="center">Hi 👋, I'm Dragana</h1>
+<h3 align="center">A highly motivated junior software tester</h3>
 
 
 ## 🌱 Courses I've Completed
@@ -24,9 +23,9 @@ __The Complete SQL Bootcamp 2022: Go from Zero to Hero__
 *online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/) on [Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/)*   
 [Link to the certificate](https://www.udemy.com/certificate/UC-225392e7-971f-42bf-b585-64c0282f27f5/)  
 
-## 🛠 Skills
+## 🔧 That I know and use</h>
 
-**Manual Testing:** Writing Test Cases, Bug Reporting, Gherkin, TestRail, JIRA
+**Manual Testing:** TestRail, JIRA
 
 **API Testing:** Postman, Swagger
 
@@ -43,7 +42,7 @@ __The Complete SQL Bootcamp 2022: Go from Zero to Hero__
 
 👨‍💻 All of my projects are available at [Portfolio](https://github.com/medosdragana?tab=repositories).
 
-## 📬 Get in Touch
+## 🔗 Get in touch
 
 If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)!
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dragana</h1>
+<h1 align="center">Hi 👋 I'm Dragana</h1>
 <h3 align="center">A highly motivated junior software tester</h3>
 
 
@@ -23,13 +23,13 @@ __The Complete SQL Bootcamp 2022: Go from Zero to Hero__
 *online course by [Jose Portilla](https://www.udemy.com/user/joseportilla/) on [Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/)*   
 [Link to the certificate](https://www.udemy.com/certificate/UC-225392e7-971f-42bf-b585-64c0282f27f5/)  
 
-## 🔧 That I know and use</h>
+## 🔧 Tools That I Know and Use</h>
 
 **Manual Testing:** TestRail, JIRA
 
 **API Testing:** Postman, Swagger
 
-**Databases:** PostgreSQL, pgAdmin
+**Databases:** SQL
 
 **Automated Testing:** Java, Selenium
 

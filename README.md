@@ -42,10 +42,6 @@ __The Complete SQL Bootcamp 2022: Go from Zero to Hero__
 
 👨‍💻 All of my projects are available at [Portfolio](https://github.com/medosdragana?tab=repositories).
 
-## 🔗 Get in touch
-
-If you liked what you’ve seen, feel free to connect with me on: [LinkedIn](https://www.linkedin.com/in/dragana-medos-272133228/)!
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=medosdragana&color=green)
 

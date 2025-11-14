@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dragana</h1>
-<h3 align="center">A highly motivated junior software tester</h3>
+<h3 align="center">A highly motivated software tester</h3>
 
 
 ## 🌱 Courses I've Completed

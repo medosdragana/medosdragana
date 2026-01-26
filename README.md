@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dragana</h1>
-<h3 align="center">A highly motivated software tester</h3>
+<h3 align="center">A highly motivated QA engineer</h3>
 
 
 ## 🌱 Courses I've Completed
@@ -25,11 +25,11 @@ __The Complete SQL Bootcamp 2022: Go from Zero to Hero__
 
 ## 🔧 Tools That I Know and Use</h>
 
-**Manual Testing:** TestRail, JIRA
+**Manual Testing:** JIRA, Confluence, TestRail, AllureTestOps
 
 **API Testing:** Postman, Swagger
 
-**Databases:** SQL
+**Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Snowflake
 
 **Automated Testing:** Java, Selenium
 
